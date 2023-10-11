@@ -1,7 +1,7 @@
 proxies:
-- name: PakGMDo2_Akrab_IP1
+- name: PakGMDo2_Live_IP1
   type: trojan
-  server: 104.18.1.196
+  server: 104.17.224.203
   port: 443
   password: 7f465e04-d9bb-4628-90b0-00e5677337f7
   udp: true
@@ -12,9 +12,9 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: PakGMDo2_Live_IP1
+- name: PakGMDo2_Akrab_IP1
   type: trojan
-  server: 104.17.224.203
+  server: 104.18.1.196
   port: 443
   password: 7f465e04-d9bb-4628-90b0-00e5677337f7
   udp: true
